@@ -1,2 +1,2 @@
 # https://nedumporthng.netlify.app/
-deployed page
+hosted page for portfolio
